@@ -9,6 +9,7 @@
 - Backend development  
 - System programming  
 - Automation & optimization
+- Machine Learning
 
 ---
 
